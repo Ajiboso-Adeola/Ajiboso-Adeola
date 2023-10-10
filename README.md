@@ -1,5 +1,3 @@
-![I am a frontend developer also a Technical Writer](https://www.canva.com/design/DAFv4H392ug/d464uexYZTdGQ-plGi0u-w/edit?utm_content=DAFv4H392ug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 # Hi there 👋, I'm  Adeola
 I'm Adeola from Nigeria,and i'm a frontend developer with a strong passion for creating responsive and user-friendly web applications, and also a Technical Writer.
 
@@ -20,4 +18,4 @@ I'm Adeola from Nigeria,and i'm a frontend developer with a strong passion for c
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajiboso-Adeola&theme=blue_navyk&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajiboso-Adeola&theme=synthwavek&show_icons=true)
