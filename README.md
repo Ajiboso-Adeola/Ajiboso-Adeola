@@ -1,16 +1,23 @@
-### Hi there 👋
+![I am a frontend developer also a Technical Writer](https://www.canva.com/design/DAFv4H392ug/d464uexYZTdGQ-plGi0u-w/edit?utm_content=DAFv4H392ug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<!--
-**Ajiboso-Adeola/Ajiboso-Adeola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm  Adeola
+I'm Adeola from Nigeria,and i'm a frontend developer with a strong passion for creating responsive and user-friendly web applications, and also a Technical Writer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a food recipe website 
+- 🌱 I’m currently learning JS and TailwindCSS 
+- 😄 Pronouns: She/her
+- 👯 I’m looking to collaborate on opensource
+- 📫 How to reach me: ([linkedin](https://www.linkedin.com/in/adeola-ajiboso/)) 
+- ⚡ Fun fact: I am jovial
+  
+## Skills and Experience
+- 💻 HTML/CSS/JS
+- ⚛ React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ajiboso-Adeola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/comfortdeola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adeola-ajiboso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/d_e_.o._l_a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dde_olla)  
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajiboso-Adeola&theme=blue_navyk&show_icons=true)
