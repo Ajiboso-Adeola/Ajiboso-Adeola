@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, My Name is Adeola Ajiboso 😎 </h1>
-<h3 align="center">I'm a Cybersecurity Analyst and Cloud DevOps Engineer</h3>
+<h3 align="center">Cloud DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajiboso-adeola&label=Profile%20views&color=0e75b6&style=flat" alt="ajiboso-adeola" /> </p>
 
@@ -8,15 +8,13 @@
 
 ###
 
--  I’m currently working on **Harnessing my Technical skills in Cloud Devops Engineering**
+-  I’m currently **Harnessing my Technical skills in Cloud Devops Engineering**
 
--  I’m currently learning Everything about **Cloud DevOps Engineering**
-
--  I’m looking to collaborate on **Cloud Security Open-Source Project**
+-  I’m looking to collaborate on **Open-Source Project**
 
 -  I’m looking for help with **Ensuring Data Privacy and Compliance in the cloud**
 
--  Ask me about **Cloud Computing, Cybersecurity, DevOps,IT**
+-  Ask me about **Cloud Computing, Cybersecurity, DevOps**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -36,7 +34,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=github action" height="60" alt="github action"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=argo CD" height="60" alt="argo CD"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
@@ -44,7 +48,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
   <img width="12" />
