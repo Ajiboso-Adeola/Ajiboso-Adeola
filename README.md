@@ -1,71 +1,118 @@
-<h1 align="center">Hello World, My Name is Adeola Ajiboso 😎 </h1>
-<h3 align="center">Cloud DevOps Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajiboso-adeola&label=Profile%20views&color=0e75b6&style=flat" alt="ajiboso-adeola" /> </p>
+# Hi, I'm Adeola Ajiboso 👋
 
-###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### Cloud Security Engineer | DevOps Engineer | AI Automation Specialist
 
-###
+**Passionate about Improving businesses efficiency and ensuring systems run smoothly**
 
--  I’m currently **Harnessing my Technical skills in Cloud Devops Engineering**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-ajiboso)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolaajiboso@gmail.com)
+[![Location](https://img.shields.io/badge/Based%20in-Lagos%2C%20Nigeria-00C853?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
--  I’m looking to collaborate on **Open-Source Project**
+</div>
 
--  I’m looking for help with **Ensuring Data Privacy and Compliance in the cloud**
+---
 
--  Ask me about **Cloud Computing, Cybersecurity, DevOps**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a passionate **Cloud Security and Engineer** specializing in building robust, scalable cloud solutions with AWS and Azure. With expertise in **N8N workflow automation**, I design and implement intelligent automation solutions that streamline operations, reduce costs, and accelerate business growth.
 
+- 🤖 **AI Automation Expert:** Helping companies automate complex workflows with N8N, AI integrations, and intelligent process optimization
+- 🔭 **Currently Working On:** Building AI-powered automation tools and cloud-native applications that solve real business problems
+- 🌱 **Always Learning:** Advanced AWS architectures, LLM integrations, and modern DevOps practices
+- 💡 **Mission:** Empowering businesses through efficient, cost-effective automation and cloud infrastructure
+- 🎯 **Focus Areas:** CI/CD pipelines, Infrastructure as Code (IaC), AI workflow automation, serverless architectures, and API development
+
+---
+
+## 💼 What I Bring to the Table
+
+```typescript
+const Adeola = {
+  code: ["Python", "Bash"],
+  cloud: ["AWS", "Lambda", "EC2", "S3", "CloudFormation", "CDK", "API Gateway", "Azure"],
+  devOps: ["Docker", "GitHub Actions", "Terraform", "Kubernetes", "Grafana"],
+  aiAutomation: ["N8N", "OpenAI", "Claude API", "Airtable", "Zapier", "Make.com"],
+  databases: ["MySQL", "DynamoDB"],
+  currentFocus: "Building intelligent automation solutions that drive business efficiency",
+  specialization: "Helping companies automate workflows and integrate AI into their operations"
+};
+```
+
+---
+
+## 🛠️ Technical Skills
+
+### AI & Automation
 <p align="left">
-<a href="https://twitter.com/adeolaajiboso_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeolaajiboso_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adeola-ajiboso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeola-ajiboso" height="30" width="40" /></a>
-<a href="https://medium.com/@adeolaajiboso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adeolaajiboso" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Airtable-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Airtable" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
 </p>
 
+### Cloud & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Grafana-8A3391?style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Kubernetes-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Linux-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Linux" />
 
-<h3 align="left">Languages and Tools:</h3>
+### Databases & Tools
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
+</p>
 
-###
+---
+
+## 🎯 How I Help Businesses
+
+### AI Automation & Workflow Optimization
+Transform your business operations with intelligent automation:
+- 🔄 **Custom N8N Workflows** - Design and implement sophisticated automation workflows
+- 🧠 **AI Integration** - Connect your systems with ChatGPT, Claude, and other LLMs
+- ⚡ **Process Automation** - Eliminate repetitive tasks and boost productivity
+- 🔗 **System Integration** - Seamlessly connect your tools, databases, and APIs
+
+### Cloud Infrastructure & DevOps
+Build scalable, reliable infrastructure:
+- ☁️ **AWS Cloud Solutions** - Serverless architectures, Lambda functions, API Gateway
+- 🚀 **CI/CD Pipelines** - Automated deployment workflows with GitHub Actions
+- 🏗️ **Infrastructure as Code** - Terraform and AWS CDK implementations
+- 🔒 **Security & Compliance** - Best practices for secure cloud deployments
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively seeking opportunities to collaborate on:
+
+- 🤖 **AI Automation Projects** - N8N workflows, LLM integrations, intelligent automation solutions
+- 🔧 **DevOps & Cloud Infrastructure** - AWS, IaC, CI/CD automation, serverless applications
+- 📚 **Technical Content & Education** - Workshops, tutorials, mentorship programs
+
+---
+
+## 📫 Get In Touch
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github action" height="60" alt="github action"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=argo CD" height="60" alt="argo CD"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="Microsoft Azure logo"  />
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeola-ajiboso)
+[![Email](https://img.shields.io/badge/Schedule_a_Call-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeolaajiboso@gmail.com)
+
+### 🎯 What I Can Do For Your Business
+
+**AI Automation** • **Cloud Migration** • **DevOps Implementation** • **Technical Training**
+
 </div>
 
-###
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajiboso-adeola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajiboso-adeola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=ohansck&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a/a/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a/a/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/a/a/output/pacman-contribution-graph.svg">
-</picture>
