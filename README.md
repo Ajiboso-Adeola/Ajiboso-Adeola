@@ -2,7 +2,7 @@
 
 # Hi, I'm Adeola Ajiboso 👋
 
-### Cloud Security Engineer | DevOps Engineer | AI Automation Specialist
+### Cloud Security Engineer | DevOps Engineer 
 
 **Passionate about Improving businesses efficiency and ensuring systems run smoothly**
 
@@ -18,7 +18,7 @@
 
 I'm a passionate **Cloud Security and Engineer** specializing in building robust, scalable cloud solutions with AWS and Azure. With expertise in **N8N workflow automation**, I design and implement intelligent automation solutions that streamline operations, reduce costs, and accelerate business growth.
 
-- 🤖 **AI Automation Expert:** Helping companies automate complex workflows with N8N, AI integrations, and intelligent process optimization
+- 🤖 **AI Automation:** Helping companies automate complex workflows with N8N, AI integrations, and intelligent process optimization
 - 🔭 **Currently Working On:** Building AI-powered automation tools and cloud-native applications that solve real business problems
 - 🌱 **Always Learning:** Advanced AWS architectures, LLM integrations, and modern DevOps practices
 - 💡 **Mission:** Empowering businesses through efficient, cost-effective automation and cloud infrastructure
@@ -28,14 +28,13 @@ I'm a passionate **Cloud Security and Engineer** specializing in building robust
 
 ## 💼 What I Bring to the Table
 
-```typescript
+```javascript
 const Adeola = {
   code: ["Python", "Bash"],
   cloud: ["AWS", "Lambda", "EC2", "S3", "CloudFormation", "CDK", "API Gateway", "Azure"],
   devOps: ["Docker", "GitHub Actions", "Terraform", "Kubernetes", "Grafana"],
   aiAutomation: ["N8N", "OpenAI", "Claude API", "Airtable", "Zapier", "Make.com"],
   databases: ["MySQL", "DynamoDB"],
-  currentFocus: "Building intelligent automation solutions that drive business efficiency",
   specialization: "Helping companies automate workflows and integrate AI into their operations"
 };
 ```
