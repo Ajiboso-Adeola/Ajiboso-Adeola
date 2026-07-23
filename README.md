@@ -16,13 +16,12 @@
 
 ## About Me
 
-I'm a passionate **Cloud Security and Engineer** specializing in building robust, scalable cloud solutions with AWS and Azure. With expertise in **N8N workflow automation**, I design and implement intelligent automation solutions that streamline operations, reduce costs, and accelerate business growth.
+I'm a passionate Cloud Security specialize in building robust, scalable cloud solutions with AWS and Azure. 
 
-- 🤖 **AI Automation:** Helping companies automate complex workflows with N8N, AI integrations, and intelligent process optimization
 - 🔭 **Currently Working On:** Building AI-powered automation tools and cloud-native applications that solve real business problems
 - 🌱 **Always Learning:** Advanced AWS architectures, LLM integrations, and modern DevOps practices
 - 💡 **Mission:** Empowering businesses through efficient, cost-effective automation and cloud infrastructure
-- 🎯 **Focus Areas:** CI/CD pipelines, Infrastructure as Code (IaC), AI workflow automation, serverless architectures, and API development
+- 🎯 **Focus Areas:** CI/CD pipelines, Infrastructure as Code (IaC), AI workflow automation, and API development
 
 ---
 
