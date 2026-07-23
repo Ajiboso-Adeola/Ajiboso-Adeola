@@ -2,7 +2,7 @@
 
 # Hi, I'm Adeola Ajiboso 👋
 
-### Cloud Security Engineer | DevOps Engineer 
+### Cloud Security Engineer
 
 **Passionate about Improving businesses efficiency and ensuring systems run smoothly**
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a passionate Cloud Security specialize in building robust, scalable cloud solutions with AWS and Azure. 
+I'm a passionate Cloud Security Engineer specialize in building robust, scalable cloud solutions with AWS and Azure. 
 
 - 🔭 **Currently Working On:** Building AI-powered automation tools and cloud-native applications that solve real business problems
 - 🌱 **Always Learning:** Advanced AWS architectures, LLM integrations, and modern DevOps practices
